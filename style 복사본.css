@@ -1,0 +1,48 @@
+header {
+	background-color: deeppink;
+	text-align: center;
+}
+
+body {
+	background-color: lightpink;
+}
+
+.me{
+	position: absolute;
+	top: 200px;
+	left: 1100px;
+	background-color: red;
+	background: linear-gradient(lightskyblue, lightblue, lightgreen);
+	width: 500px;
+	height: 500px;
+	border-radius: 500px;
+	color: seagreen;
+	font-size: 4vw;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.design{
+	position: absolute;
+	top: 200px;
+	right: 1100px;
+	background-color: green;
+	background: linear-gradient(lightyellow, lightpink, purple);
+	width: 500px;
+	height: 500px;
+	border-radius: 500px;
+	color: purple;
+	font-size: 4vw;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+li {
+	list-style: none;
+}

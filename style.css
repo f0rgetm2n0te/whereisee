@@ -1,0 +1,29 @@
+header {
+	background: radial-gradient(hotpink, pink);
+	text-align: center;
+	font-size: 4vw;
+}
+
+html{
+	background-color: lemonchiffon;
+}
+
+article {
+	display: flex;
+	flex-direction: row;
+	font-size: 1.5vw;
+}
+
+
+section {
+	border: 2px dotted hotpink;
+	border-radius: 100px;
+	line-height: 2;
+	word-break: keep-all;
+}
+
+h2 {
+	background: radial-gradient(lightblue, lightpink);
+	border-radius: 100px;
+	text-align: center;
+}
